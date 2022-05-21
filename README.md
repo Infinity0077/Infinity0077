@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2021/09/12/07/58/banner-6617550__340.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Anant_R_Baviskar</h1>
 <h3 align="center">A passionate Data Science Student from India...</h3>
 <img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
