@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<!-- <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
 
 <div align="center">
 
@@ -209,3 +209,4 @@ If you have any questions about web development, writing mistake-free documentat
 -----
 Credits: [Austinae](https://github.com/Austinae)
 Last Edited on: 23/12/2022
+ -->
