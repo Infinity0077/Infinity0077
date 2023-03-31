@@ -1,4 +1,4 @@
-<!-- <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png" alt="Avatar photo of Anant Bavsiakr">
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://w7.pngwing.com/pngs/188/718/png-transparent-anime-drawing-manga-boy-anime-umbrella-manga-monochrome-thumbnail.png" alt="Avatar photo of Anant Bavsiakr">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Anant R Baviskar;aka+INFINITY;Welcome+to+my+profile!;Description+of+myself%3A;Inquisitive+by+nature;AI+enthusiast;Chess+lover;ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
@@ -207,6 +207,5 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 -----
-Credits: [Austinae](https://github.com/Austinae)
-Last Edited on: 23/12/2022
- -->
+Credits: [INFINITY](https://github.com/Infinity0077)
+Last Edited on: 23/03/2023
