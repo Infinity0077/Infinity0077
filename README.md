@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p>
+<!-- <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p> -->
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="300" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngwing.com%20(1).png" alt="Avatar photo of Anant Bavsiakr">
+      <img height="450" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngwing.com%20(3).png" alt="Avatar photo of Anant Bavsiakr">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Anant R Baviskar;aka+INFINITY;Welcome+to+my+profile!;Description+of+myself%3A;Inquisitive+by+nature;AI+enthusiast;Chess+lover;ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
@@ -24,6 +24,10 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
+
+<div align=center>
+      <img height="100" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngfind.com-pokeball-sprite-png-6878839.png" alt="Avatar photo of Anant Bavsiakr">
+  </div>
 <div align="left">
 
 <!-- <div align="center"> -->
@@ -191,21 +195,39 @@ If you have any questions about web development, writing mistake-free documentat
   </tr>
 </table>
 </details>
+<details>
+<summary>Stats</summary>
+<br/> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&hide_border=true&layout=compact" align="" />  
 
+<br/>
+</details>
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
 
-<div align=center>
-  <a href="https://www.linkedin.com/in/anant-baviskar-b07b25236/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <!-- <a href="https://lichess.org/@/Austinae"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" /></a> -->
-  <a href="mailto:baviskaranant7@gmail.com?subject=Hi%20Anant%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  <
-  <!--    -->
-  
-</div>
+# Connect with me  
+<br/>
+<br/>
+<div align="center">
+<a href="https://github.com/https://github.com/Infinity0077" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/arbaviskar02" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anant-baviskar-b07b25236/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/https://www.instagram.com/_anant_baviskar_02_/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 -----
 Credits: [INFINITY](https://github.com/Infinity0077)
