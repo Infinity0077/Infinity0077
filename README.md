@@ -34,7 +34,7 @@
   
   
 
-# ***<div align="center">💻   I'm Anant Baviskar, 💻📝  Data Science Enthusiastic 👨‍💻 working for me remotely since 2002 🚀🖥️🎼</div>***  
+# ***<div align="center">💻   I'm Anant Baviskar, 💻📝  Data Science Enthusiastic 👨‍💻 working for my self remotely since 2002 🚀🖥️🎼</div>***  
   
 
 - **🔭 I’m currently working on [CMS Web App](https://github.com/Infinity0077/webpage)**  
