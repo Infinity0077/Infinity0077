@@ -1,5 +1,3 @@
-<!-- <p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Profile count" /> </p> -->
-
 <div align="center">
 
 
@@ -26,7 +24,7 @@
 
 
 <div align=center>
-      <img height="100" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngfind.com-pokeball-sprite-png-6878839.png" alt="Avatar photo of Anant Bavsiakr">
+      <img height="320" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(5).png">
   </div>
 <div align="left">
 
@@ -56,34 +54,26 @@
 
 <details>
 <summary>Tools</summary>
+<div align=center>
+      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(9).png">
+  </div>
+
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />  -->
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
     </kbd>
     <kbd>
       <kbd>Back-end</kbd>
       <br>
       <br>
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> -->
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" /> -->
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
     </kbd>
-     <!-- <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    </kbd> -->
     <kbd>
       <kbd>Front-end</kbd>
       <br>
@@ -98,10 +88,8 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> -->
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> -->
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
     </kbd>
     <br>
     <br>
@@ -118,7 +106,6 @@
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     </kbd>
@@ -127,7 +114,6 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
     </kbd>
     <kbd>
       <kbd>Tools</kbd>
@@ -137,9 +123,7 @@
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" /> -->
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <!-- <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /> -->
   </kbd>
      <kbd>
       <kbd>Game Development</kbd>
@@ -153,8 +137,13 @@
 
 <details>
   <summary>Quote</summary>
+  <div align=center>
+      <img height="260" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(6).png">
+  </div>
+  <h2>One of my favourite quotes</h2>
   <br>
-  One of my favourite quotes
+  
+  
   <blockquote>
     “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
     <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
@@ -163,6 +152,9 @@
 
 <details>
   <summary>Free DOSE hit</summary>
+  <div align=center>
+      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(10).png">
+  </div>
   <br>
   <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
   <br>
@@ -171,6 +163,9 @@
 
 <details>
 <summary>What can I do for you?</summary>
+<div align=center>
+      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(13).png">
+  </div>
 <table style="border: none">
   <tr>
   <td width="50%" valign="top">
@@ -197,6 +192,9 @@ If you have any questions about web development, writing mistake-free documentat
 </details>
 <details>
 <summary>Stats</summary>
+<div align=center>
+      <img height="470" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(7).png">
+  </div>
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
 <br/>
@@ -231,4 +229,4 @@ If you have any questions about web development, writing mistake-free documentat
 
 -----
 Credits: [INFINITY](https://github.com/Infinity0077)
-Last Edited on: 23/03/2023
+Last Edited on: 27/03/2023
