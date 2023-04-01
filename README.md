@@ -210,19 +210,20 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 # Connect with me  
-<br/>
-<br/>
+<div align=center>
+      <img width="950" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/Untitled%20design%20(1).png" alt="Avatar photo of Anant Bavsiakr">
+  </div>
 <div align="center">
-<a href="https://github.com/https://github.com/Infinity0077" target="_blank">
+<a href="https://github.com/Infinity0077" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/arbaviskar02" target="_blank">
+<a href="https://twitter.com/arbaviskar02" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anant-baviskar-b07b25236/" target="_blank">
+<a href="https://www.linkedin.com/in/anant-baviskar-b07b25236/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/_anant_baviskar_02_/" target="_blank">
+<a href="https://www.instagram.com/_anant_baviskar_02_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
