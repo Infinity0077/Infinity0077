@@ -10,7 +10,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="450" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngwing.com%20(3).png" alt="Avatar photo of Anant Bavsiakr">
+      <img height="450" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(8).png" alt="Avatar photo of Anant Bavsiakr">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Anant R Baviskar;aka+INFINITY;Welcome+to+my+profile!;Description+of+myself%3A;Inquisitive+by+nature;AI+enthusiast;Chess+lover;ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
@@ -164,7 +164,7 @@
 <details>
 <summary>What can I do for you?</summary>
 <div align=center>
-      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(13).png">
+      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(11).png">
   </div>
 <table style="border: none">
   <tr>
@@ -193,7 +193,7 @@ If you have any questions about web development, writing mistake-free documentat
 <details>
 <summary>Stats</summary>
 <div align=center>
-      <img height="270" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/mihawk.png">
+      <img height="420" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(9).png">
   </div>
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
