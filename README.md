@@ -193,7 +193,7 @@ If you have any questions about web development, writing mistake-free documentat
 <details>
 <summary>Stats</summary>
 <div align=center>
-      <img height="270" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(12).png">
+      <img height="270" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/mihawk.png">
   </div>
 <br/> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
