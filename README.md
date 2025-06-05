@@ -1,233 +1,71 @@
+<!-- PROFILE README FOR: Infinity0077 -->
 <div align="center">
 
+<!-- POKEBALL or ANIME-INSPIRED HEADER (Replace/Customize as Desired) -->
+<img src="https://raw.githubusercontent.com/Feewsource/Feewsource/main/assets/pokeball.svg" alt="Pokeball Banner" width="200"/>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+# Hi, I'm Infinity0077! 👋
+### Data Analyst | Anime Fan | Tech Enthusiast
 
-<details>
-<summary>Open profile</summary>
+<!-- LOTTIE ANIMATION EXAMPLE -->
+<lottie-player 
+    src="https://assets5.lottiefiles.com/packages/lf20_sSF6EG.json"  <!-- Replace with your favorite Lottie JSON link -->
+    background="transparent"
+    speed="1"
+    style="width: 300px; height: 300px;"
+    loop
+    autoplay>
+</lottie-player>
 
-[comment]: <> (View Counter)
-<br>
-<div>
-  <div align=center>
-      <img height="450" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(8).png" alt="Avatar photo of Anant Bavsiakr">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Anant R Baviskar;aka+INFINITY;Welcome+to+my+profile!;Description+of+myself%3A;Inquisitive+by+nature;AI+enthusiast;Chess+lover;ambitious;Young+at+heart;Thrill+seeker" alt="Typing SVG" /></a>
-  </div>
-</div>
+<!-- ANIME IMAGES GALLERY (Replace URLs with your favorites) -->
+<p align="center">
+  <img src="https://i.imgur.com/UH3IPXw.gif" alt="Anime1" width="120"/>
+  <img src="https://i.imgur.com/xxQwQyT.gif" alt="Anime2" width="120"/>
+  <img src="https://i.imgur.com/neK6R87.gif" alt="Anime3" width="120"/>
+</p>
 
-<details>
-<summary>About me</summary>
+---
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+## 👨‍💻 About Me
 
+- 🔭 I’m currently working on: **[Your Project Name/Interest]**
+- 🌱 I’m learning: **SQL, Python, Data Visualization, GitHub Actions**
+- 💬 Ask me about: **Data analysis, Anime recommendations, Open source**
+- ⚡ Fun fact: *I can talk about anime for hours and still not get bored!*
 
-<div align=center>
-      <img height="320" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(5).png">
-  </div>
-<div align="left">
+---
 
-<!-- <div align="center"> -->
-  
-  
+## 🛠️ Skills
 
-# ***<div align="center">💻   I'm Anant Baviskar, 💻📝  Data Science Enthusiastic 👨‍💻 working for my self remotely since 2002 🚀🖥️🎼</div>***  
-  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- **🔭 I’m currently working on [CMS Web App](https://github.com/Infinity0077/webpage)**  
-  
+---
 
-- **🌱 I’m currently learning Docker and Flask**  
-  
+## 📈 GitHub Stats
 
-- **❓ Ask me about anything related to Python Programming and related technologies**  
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infinity0077&theme=tokyonight" width="400"/>
+</p>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
 
-<br/>  
-</div>
+## 📫 Connect with Me
 
-</details>
-
-<details>
-<summary>Tools</summary>
-<div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(9).png">
-  </div>
-
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Data Science & AI</kbd>
-      <br>
-      <br>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>System, Networking & Deployment</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-    </kbd>
-  </p>
-</div>
-</details>
-
-<details>
-  <summary>Quote</summary>
-  <div align=center>
-      <img height="260" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(6).png">
-  </div>
-  <h2>One of my favourite quotes</h2>
-  <br>
-  
-  
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
-</details>
-
-<details>
-  <summary>Free DOSE hit</summary>
-  <div align=center>
-      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Python_mini/main/pngwing.com%20(10).png">
-  </div>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
-
-<details>
-<summary>What can I do for you?</summary>
-<div align=center>
-      <img height="370" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(11).png">
-  </div>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:baviskaranant7@gmail.com">contact me by email</a>, I won't bite, I promise.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
-</details>
-<details>
-<summary>Stats</summary>
-<div align=center>
-      <img height="420" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/pngegg%20(9).png">
-  </div>
-<br/> 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
-<br/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&hide_border=true&layout=compact" align="" />  
-
-<br/>
-</details>
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 </div>
 
-# Connect with me  
-<div align=center>
-      <img width="950" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://raw.githubusercontent.com/Infinity0077/Infinity0077/main/Untitled%20design%20(1).png" alt="Avatar photo of Anant Bavsiakr">
-  </div>
-<div align="center">
-<a href="https://github.com/Infinity0077" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/arbaviskar02" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/anant-baviskar-b07b25236/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/_anant_baviskar_02_/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
------
-Credits: [INFINITY](https://github.com/Infinity0077)
-Last Edited on: 27/03/2023
+<!--
+INSTRUCTIONS:
+- Replace image & Lottie URLs with your choices.
+- Update your project, skills, and contact info.
+- For Lottie animations, use the <lottie-player> from LottieFiles (GitHub markdown supports it on profile READMEs).
+- To add more anime images, duplicate the <img> tag in the gallery.
+-->
