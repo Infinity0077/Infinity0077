@@ -1,69 +1,113 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Feewsource/Feewsource/main/assets/pokeball.svg" alt="Pokeball Banner" width="140"/>
-  <h1>📖 Infinity0077's Epic Data & Anime Tome</h1>
+
+  <!-- Banner at the top -->
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/23bb0ffe1a532c4078edab7353948e37ca3eaad8/hat.png" alt="Pokeball Banner" width="440"/>
+
+  <!-- Animated Title -->
+  <br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1500&color=F7B801&vCenter=true&width=970&height=55&lines=Welcome+to+My+Knowledge+Hub+of+Data,+Anime+%26+More!;Welcome+to+Anant+R+Baviskar's+Journey+Of+Data+Quest!;Exploring+Data+Science+by+Day,+Anime+by+Night!;Unlocking+Insight+and+Knowledge+One+Episode+at+a+Time!;Code,+Cloud,+Otaku+Life,+PC+Games,+and+Phonk+Music!" alt="Title Typing SVG">
+</p>
+
+  <!-- Subtitle -->
+  <br>
   <em>Turn the "pages" below and step into my world...</em>
   <br><br>
-  <img src="https://i.imgur.com/UH3IPXw.gif" width="130"/>
-  <img src="https://i.imgur.com/xxQwQyT.gif" width="130"/>
-  <img src="https://i.imgur.com/neK6R87.gif" width="130"/>
+
+  <!-- Character Images (with spacing using non-breaking spaces) -->
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/zoro.png" alt="Roronoa Zoro" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/2745910165a47920ba6455bceaf39c66baa78f0c/luffy.png" alt="Monkey D Luffy" width="220"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/d6358d0e5824d168230079ac68f6c8fc8a613210/shanks.png" alt="Shanks" width="280"/>
+
 </div>
 
 ---
 
-## 📚 Table of Contents
+<details>
+<summary><b>🟣⚡ <span style="color:#D7263D;">CYBERPUNK INDEX</span> ⚡🟣</b></summary>
 
-- [Prologue](#prologue)
-- [Character Sheet](#character-sheet)
-- [Ch. 1: Origin Story](#ch-1-origin-story)
-- [Ch. 2: Data & Cloud Journey](#ch-2-data--cloud-journey)
-- [Ch. 3: Skills & Tools](#ch-3-skills--tools)
-- [Ch. 4: Projects Showcase](#ch-4-projects-showcase)
-- [Ch. 5: Certifications & Badges](#ch-5-certifications--badges)
-- [Ch. 6: Anime Universe](#ch-6-anime-universe)
-- [Ch. 7: Fun & Fandom](#ch-7-fun--fandom)
-- [Ch. 8: Side Quests](#ch-8-side-quests)
-- [Epilogue & Contact](#epilogue--contact)
+<p align="center">
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/4c2a40b7339d3c08e5eaefd0d798699918061617/Data/drag.png"
+  alt="Cyberpunk Typing SVG" width="1700" height="400">
+</p>
 
----
+<p align="center">
+  🟣━━━━━━━✦━━━━━━━⚡━━━━━━━✦━━━━━━━🟢
+</p>
 
-## Prologue
+- [🟣✨ Prologue](#prologue)
+- [🟢🗒️ Character Sheet](#character-sheet)
+- [⚡🌱 Ch. 1: Origin Story](#ch-1-origin-story)
+- [🛸☁️ Ch. 2: Data & Cloud Journey](#ch-2-data--cloud-journey)
+- [💾🛠️ Ch. 3: Skills & Tools](#ch-3-skills--tools)
+- [🚀🔮 Ch. 4: Projects Showcase](#ch-4-projects-showcase)
+- [🏅🦾 Ch. 5: Certifications & Badges](#ch-5-certifications--badges)
+- [🎬🦿 Ch. 6: Anime Universe](#ch-6-anime-universe)
+- [🎉🔊 Ch. 7: Fun & Fandom](#ch-7-fun--fandom)
+- [🗺️💡 Ch. 8: Side Quests](#ch-8-side-quests)
+- [📝🕶️ Epilogue & Contact](#epilogue--contact)
 
-<details open>
-<summary><b>✨ Click to read the Foreword</b></summary>
+<p align="center">
+  🟣━━━━━━━✦━━━━━━━⚡━━━━━━━✦━━━━━━━🟢
+</p>
 
-> “Every dataset is a new adventure, every analysis a quest for truth.
->  
-> In a world where data and anime collide, this is my story—one query, one episode at a time.”
-
-<br>
-<div align="center">
- <img src="https://i.imgur.com/3e8FfGk.gif" width="180"/>
-</div>
-
----
 </details>
 
 ---
+## ✨ Prologue
 
-## Character Sheet
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=245CA6&width=750&height=25&lines=Long+ago,+in+a+world+where+data+and+imagination+intertwine..." alt="Typing Animation 1">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=338BA8&width=750&height=25&lines=A+curious+mind+set+out+on+a+quest+for+knowledge." alt="Typing Animation 2">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=34B6D9&width=750&height=25&lines=I'm+Anant+R+Baviskar+(Infinity0077)." alt="Typing Animation 3">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=8DD6E9&width=750&height=25&lines=By+day:+Data+adventurer,+code+mage,+cloud+wanderer." alt="Typing Animation 4">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=D5EFFC&width=750&height=25&lines=By+night:+Anime+binge-watcher,+novel+reader,+gamer+at+heart." alt="Typing Animation 5">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=E9F6FB&width=750&height=25&lines=Every+project+is+a+new+chapter,+every+insight+a+plot+twist." alt="Typing Animation 6">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=F9FBFC&width=750&height=25&lines=The+adventure+begins+now!" alt="Typing Animation 7">
+</p>
 
-<details>
-<summary><b>🌟 Infinity0077: The Data Adventurer</b></summary>
 
-| Attribute      | Value                                            |
-|:--------------:|:------------------------------------------------:|
-| **Name**       | Anant Baviskar (Infinity0077)                    |
-| **Class**      | Data Analyst / Cloud Explorer                    |
-| **Alignment**  | Chaotic Good                                     |
-| **Region**     | Pune, Maharashtra, India                         |
-| **Signature Anime** | Your Name, Attack on Titan, Haikyuu!!       |
-| **Battle Cry** | "Analyze, Automate, Anime!"                      |
+<p align="center">
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/Met%20deze%20te%20gekke%20One%20Piece%20Wanted%20Shanks%20poster%E2%80%A6.jpg" alt="Laptop/Data" width="180" height="240"/>
+  <b>&nbsp;|&nbsp;</b>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/ad17f22a-7b7e-46ae-9dae-5da33ffdaf95.jpg" alt="Book/Novel" width="180" height="240"/>
+  <b>&nbsp;|&nbsp;</b>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/one%20piece%20poster%20wanted%20zoro.jpg" alt="Book/Nove2" width="180" height="240"/>
+  <b>&nbsp;|&nbsp;</b>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/57862e778d3777062b5122f6f7e0efbdfef9c5cf/Data/a3c793be-8865-49b9-b19b-0c2ee845e043.jpg" alt="Book/Nove2" width="180" height="240"/>
+  <b>&nbsp;|&nbsp;</b>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/b193bfee-0f67-46da-adda-81523eebc6a3.jpg" alt="Anime/Alien Monster" width="180" height="240"/>
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/UH3IPXw.gif" width="100"/>
-  <img src="https://i.imgur.com/xxQwQyT.gif" width="100"/>
-  <img src="https://i.imgur.com/neK6R87.gif" width="100"/>
-</div>
+---
+
+---
+
+```
+╔═════════════════════════════════════════════════════════╗
+║             🌟 Infinity0077: The Data Adventurer      ║
+╚═════════════════════════════════════════════════════════╝
+```
+<p align="center">
+╔═════════════════════════════════════════════════════════╗
+ ║           🌟 Infinity0077: The Data Adventurer       ║
+╚═════════════════════════════════════════════════════════╝
+</p>
+
+| 🧙‍♂️ **Name**      | Anant Baviskar (Infinity0077)               |
+|--------------------|---------------------------------------------|
+| 💡 **Class**       | Data Analyst / Cloud Explorer                |
+| ⚡ **Alignment**    | Chaotic Good                                |
+| 🌍 **Region**      | Pune, Maharashtra, India                     |
+| 🎬 **Signature Anime** | Your Name, Attack on Titan, Haikyuu!!   |
+| 🔥 **Battle Cry**  | "Analyze, Automate, Anime!"                  |
+
+<p align="center">
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro1.jpg" width="220" />
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro3.jpg" width="220" />
+</p>
 
 ---
 
