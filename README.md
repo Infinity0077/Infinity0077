@@ -85,66 +85,81 @@
 
 ---
 
-```
-╔═════════════════════════════════════════════════════════╗
-║             🌟 Infinity0077: The Data Adventurer      ║
-╚═════════════════════════════════════════════════════════╝
-```
-<p align="center">
-╔═════════════════════════════════════════════════════════╗
- ║           🌟 Infinity0077: The Data Adventurer       ║
-╚═════════════════════════════════════════════════════════╝
-</p>
+<h2>🌟 Character's Sheet</h2>
 
-| 🧙‍♂️ **Name**      | Anant Baviskar (Infinity0077)               |
-|--------------------|---------------------------------------------|
-| 💡 **Class**       | Data Analyst / Cloud Explorer                |
-| ⚡ **Alignment**    | Chaotic Good                                |
-| 🌍 **Region**      | Pune, Maharashtra, India                     |
-| 🎬 **Signature Anime** | Your Name, Attack on Titan, Haikyuu!!   |
-| 🔥 **Battle Cry**  | "Analyze, Automate, Anime!"                  |
+```
+╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+
+    .___        _____.__       .__  __                ___________.__             ________          __              _____       .___                    __                               
+    |   | _____/ ____\__| ____ |__|/  |_ ___.__.  /\  \__    ___/|  |__   ____   \______ \ _____ _/  |______      /  _  \    __| _/__  __ ____   _____/  |_ __ _________   ___________  
+    |   |/    \   __\|  |/    \|  \   __<   |  |  \/    |    |   |  |  \_/ __ \   |    |  \\__  \\   __\__  \    /  /_\  \  / __ |\  \/ // __ \ /    \   __\  |  \_  __ \_/ __ \_  __ \ 
+    |   |   |  \  |  |  |   |  \  ||  |  \___  |  /\    |    |   |   Y  \  ___/   |    `   \/ __ \|  |  / __ \_ /    |    \/ /_/ | \   /\  ___/|   |  \  | |  |  /|  | \/\  ___/|  | \/ 
+    |___|___|  /__|  |__|___|  /__||__|  / ____|  \/    |____|   |___|  /\___  > /_______  (____  /__| (____  / \____|__  /\____ |  \_/  \___  >___|  /__| |____/ |__|    \___  >__|    
+             \/              \/          \/                           \/     \/          \/     \/          \/          \/      \/           \/     \/                        \/        
+
+╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+
 
 <p align="center">
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro1.jpg" width="220" />
-  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro3.jpg" width="220" />
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro1.jpg" width="440" height="180" />
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro3.jpg" width="440" height="180" />
 </p>
+<div align="center">
+
+<b>🧙‍♂️ Name:</b> Anant Baviskar (Infinity0077)<br>
+<b>🎓 Education:</b> B.Tech in Data Science<br>
+<b>💡 Status:</b> Data Science Graduate & Lifelong Learner<br>
+<b>🤖 Skills:</b> Data Science, Machine Learning<br>
+<b>🌱 Currently Learning:</b> Advanced Data Science & ML<br>
+<b>🌍 Region:</b> Pune, Maharashtra, India<br>
+<b>🎬 Favorite Anime:</b> One Piece, Black Clover, DBZ, BLEACH<br>
+<b>🐉 Favorite Donghua:</b> BTTH, SEAL of THRONE, SOUL LAND, Tales of Herding Gods<br>
+<b>🔥 Battle Cry:</b> <i>"Analyze, Automate, Anime!"</i>
+
+</div>
 
 ---
 
-### 🎒 Inventory
+## 🛰️ Inventory System [*]
 
-- **Laptop:** MacBook Pro, VSCode stickers
-- **Favourite Snack:** 🍙 Onigiri
-- **Current Power-Up:** Google Data Analytics, Cloud Skills Boost
-- **Spirit Animal:** 🦊 Kurama (Nine-Tails)
+<pre>
+╔═══════════════════════════════════════════════════════════════════╗
+ ║ 💻 Device        : HP Victus 16' [VSCode: NeoSkin]              ║
+ ║ ⚡ Power-Up      : Google Data Analytics Path (Active)          ║
+ ║ ⚡                 DataCamp Data Analyst Path (Active)          ║
+ ║ ⚡                                                              ║
+ ║ 🥋 Finisher Moves: Ashura: Ichibugin (Asura: One Mist Silver),  ║
+ ║ 🥋                 Sanzen Sekai (Three Thousand Worlds),        ║
+ ║ 🥋                 Mugetsu – Ichigo (Final Getsuga Tenshō),     ║
+ ║ 🥋                 Senbonzakura Kageyoshi – Byakuya.            ║
+╚═══════════════════════════════════════════════════════════════════╝
+</pre>
 
 ---
 
-### 🏆 Awards & Honors
+## 🏅 Achievements Console
 
-- 🥈 2nd Place – Analytics Hackathon, Machine Hack @ RCPIT (2022)
-
-</details>
-
+```
+┌──────────────────────────────────────────────────────────┐
+│    Analytics Hackathon, Machine Hack @ RCPIT (2022)      │  
+│    Status: 2nd Place Achieved [Silver Badge Unlocked]    │
+└──────────────────────────────────────────────────────────┘
+```
 ---
-
 ## Ch. 1: Origin Story
 
 <details>
 <summary><b>📜 The Beginning</b></summary>
 
-- Born in Maharashtra, I grew up equally fascinated by animated stories and the magic of numbers.
-- **First Encounter:** Discovered Python while searching for anime stats online.
-- **Mentors:** Kaggle Grandmasters, YouTube coders, professors, and anime protagonists.
-- **Turning Point:** Built a visualization of MyAnimeList data—suddenly, analytics and anime fused!
-
-<blockquote>
-  “If you don’t take risks, you can’t create a future.” — Monkey D. Luffy
-</blockquote>
+- Born and raised in Maharashtra, India, I’ve always been drawn to both numbers and stories.
+- My interest in technology started with an early curiosity for data—exploring patterns, collecting information, asking questions.
+- I discovered Python during my undergraduate studies, and quickly realized its potential for data analysis and automation.
+- Inspired by online communities, open-source contributors, and educators, I began building projects that connect data to real-world challenges.
+- Today, I’m focused on developing my skills as a data analyst and Data Scientist and working towards a professional role in the field.
 
 </details>
-
----
 
 ## Ch. 2: Data & Cloud Journey
 
@@ -153,68 +168,158 @@
 
 - **Education:**
   - 🎓 B.Tech in Computer Science (Data Science), R.C. Patel Institute of Technology, Shirpur (2020–2024), CGPA: 7.16
-- **Power-Ups:**
-  - DataCamp Analyst Path – _Ongoing_
-  - Google Data Analyst Learning Path – _Ongoing_
+  - 🏫 HSC (12th), R.C. Patel Science & Commerce College, Shirpur – 82.62%
+  - 🏫 SSC (10th), P.B.M Municipal High School, Shirpur – 85.40%
+- **Certifications & Learning:**
   - AWS Educate – Cloud Computing 101 (2023)
-- **Relevant Coursework:** Data Structures, DBMS, Statistics, Data Mining, Business Intelligence
-- **Quest Log:**
-  - Master time-series anime data and automate badge tracking.
-  - Build cloud-based dashboards for real-world challenges.
-  - Analyze public datasets for health, environment, and fandom insights.
+  - Google Data Analytics Professional Certificate _(in progress)_
+  - DataCamp Analyst Path _(in progress)_
+- **Relevant Coursework:** Data Structures, Database Management Systems, Statistics, Data Mining, Business Intelligence, Data Visualization
+- **Academic Interests & Goals:**
+  - Exploring time-series analysis and automation for data-driven insights.
+  - Building and deploying cloud-based dashboards for real-world use cases.
+  - Applying analytics to open datasets in health, environment, and digital communities.
+  - Continuously learning new data tools and technologies to expand my capabilities.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif" width="160"/>
-</div>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmlxOXB4MG5ndGxneDE4MnJyYzE0ZWExcDlxNHZnamxsaXI2MTZ4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" width="400" height= "200"/>
+    <b>&nbsp;|<-->|&nbsp;</b>
 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNlMmZxczVlaWZoam02Zmxzd2syZjB1YXV1enVyZHB1c3NmcWRleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="170"/>
+
+</div>
 </details>
 
----
 
 ## Ch. 3: Skills & Tools
 
 <details>
-<summary><b>⚔️ The Arsenal</b></summary>
+<summary><b>⚡ The Arsenal // Future Mode</b></summary>
+&nbsp;
+<div align="center">
 
-### Programming Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Data%20Science-212121?style=for-the-badge&logo=databricks&logoColor=4DB6AC">
+<img src="https://img.shields.io/badge/Cloud-AWS-1e1e1e?style=for-the-badge&logo=amazonaws&logoColor=FFCA28">
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Analytics-Power%20BI-232F3E?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+<img src="https://img.shields.io/badge/Visualization-Tableau-151515?style=for-the-badge&logo=tableau&logoColor=E97627">
+<img src="https://img.shields.io/badge/SQL%20&%20Databases-343650?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio%20Stack-Next.js%20%7C%20React%20%7C%20Tailwind-0A192F?style=for-the-badge&logo=next.js&logoColor=white">
 
-### Data Visualization & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Platforms & Developer Tools
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### Soft Skills
-- Problem-Solving | Communication | Critical Thinking | Attention to Detail
+</div>
 
 ---
 
-#### 📊 GitHub Analytics
+### 💻 Programming & Data Science
+<div align="center">
+  
+![Python](https://img.shields.io/badge/-Python-0A192F?style=for-the-badge&logo=python&logoColor=4FC3F7)
+![SQL](https://img.shields.io/badge/-SQL-1e1e1e?style=for-the-badge&logo=postgresql&logoColor=81C784)
+![Pandas](https://img.shields.io/badge/-Pandas-212121?style=for-the-badge&logo=pandas&logoColor=E1BEE7)
+![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=81D4FA)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-212121?style=for-the-badge&logo=matplotlib&logoColor=FFD54F)
+![Seaborn](https://img.shields.io/badge/-Seaborn-151515?style=for-the-badge&logo=python&logoColor=64B5F6)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1e1e1e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![OpenCV](https://img.shields.io/badge/-OpenCV-151515?style=for-the-badge&logo=opencv&logoColor=9FA8DA)
+![Spacy](https://img.shields.io/badge/-Spacy-0D1117?style=for-the-badge&logo=spaCy&logoColor=00BFAE)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Infinity0077&theme=tokyonight" width="400"/>
-</p>
+</div>
+
+---
+
+### 📊 Visualization, Analytics & Reporting
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-232F3E?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Tableau](https://img.shields.io/badge/-Tableau-151515?style=for-the-badge&logo=tableau&logoColor=E97627)
+![Excel](https://img.shields.io/badge/-Excel-292C36?style=for-the-badge&logo=microsoft-excel&logoColor=43EA58)
+![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+
+</div>
+
+---
+
+### 🗄️ Databases & Cloud
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/-MySQL-212121?style=for-the-badge&logo=mysql&logoColor=4DB6AC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=69A1F4)
+![AWS Educate](https://img.shields.io/badge/-AWS%20Educate-212121?style=for-the-badge&logo=amazonaws&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+### 🛠️ Developer & Portfolio Stack
+
+<div align="center">
+
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-151515?style=for-the-badge&logo=googlecolab&logoColor=F9AB00)
+![Kaggle](https://img.shields.io/badge/-Kaggle-212121?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
+![Git](https://img.shields.io/badge/-Git-1e1e1e?style=for-the-badge&logo=git&logoColor=F14E32)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0A192F?style=for-the-badge&logo=visual-studio-code&logoColor=51B8F5)
+![React](https://img.shields.io/badge/-React-151515?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-1e1e1e?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Contentful](https://img.shields.io/badge/-Contentful-151515?style=for-the-badge&logo=contentful&logoColor=2478CC)
+
+</div>
+
+---
+
+### 🚀 Data Science & Analytics Skills (Current & Evolving)
+
+- Data Cleaning • Preprocessing • EDA • Visualization
+- Regression, Classification, Model Optimization
+- Time Series Analysis (learning)
+- NLP & Automation (learning)
+- Dashboarding • Reporting Automation
+- Statistical Analysis • Database Querying
+- Cloud Data Solutions (exploring)
+
+---
+
+### 🧩 Soft Skills
+- Problem-Solving • Critical Thinking • Communication • Collaboration • Adaptability • Curiosity
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Mono&duration=2500&pause=600&color=00FFD0&center=true&vCenter=true&width=480&lines=Upgrading+skills...;Loading+future-ready+toolkit...;Deploying+next-gen+analytics.">
+</div>
 
 </details>
 
+
+#### 🛰️ GitHub Analytics // [ Next-Gen Dashboard ]
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=2500&pause=600&color=00FFD0&center=true&vCenter=true&width=680&lines=Activating+Metrics+AI...;Rendering+Futuristic+Dashboard...;Analyzing+Open+Source+Energy..." />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&theme=tokyonight&bg_color=0D1117,212121,0D1117&title_color=00FFD0&icon_color=00FFD0&border_radius=20" width="410" style="border-radius: 20px; box-shadow: 0 0 40px #00ffe0;"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Infinity0077&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="410" style="border-radius: 20px; box-shadow: 0 0 40px #00ffe0;"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Infinity0077&theme=react-dark&area=true&hide_border=true&color=00FFD0&line=00FFD0" width="96%" style="margin-top: 10px; border-radius: 16px; box-shadow: 0 0 30px #00ffe0;"/>
+
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aCSi4aRV7bSrtQs/giphy.gif" width="90"/>
+  <br/>
+  <b><sub><sup>Data streams decoded. Welcome to the future.</sup></sub></b>
+</div>
 
 ## Ch. 4: Projects Showcase
 
