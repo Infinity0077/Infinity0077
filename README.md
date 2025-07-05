@@ -293,34 +293,37 @@
 
 </details>
 
-
-#### 🛰️ GitHub Analytics // [ Next-Gen Dashboard ]
-
+#### 🛰️ GitHub Analytics // [ Neon-Cyber Dashboard ]
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=2500&pause=600&color=00FFD0&center=true&vCenter=true&width=680&lines=Activating+Metrics+AI...;Rendering+Futuristic+Dashboard...;Analyzing+Open+Source+Energy..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1800&pause=600&color=00FFF0&center=true&vCenter=true&width=700&lines=Booting+Neon+Analytics...;Injecting+Cyber+Telemetry...;Welcome+to+the+Synthwave+Ops+Console!" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&theme=tokyonight&bg_color=0D1117,212121,0D1117&title_color=00FFD0&icon_color=00FFD0&border_radius=20" width="410" style="border-radius: 20px; box-shadow: 0 0 40px #00ffe0;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Infinity0077&show_icons=true&theme=tokyonight&bg_color=191b1fcc&title_color=32FFF6&icon_color=FF6B00&text_color=ebffff&border_radius=28&custom_title=Infinity0077+CYBER+CORE&number_color=32FFF6" width="440"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Infinity0077&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" width="410" style="border-radius: 20px; box-shadow: 0 0 40px #00ffe0;"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Infinity0077&theme=tokyonight&background=191b1fcc&currStreakNum=00f6ff&sideNums=00fff7&dates=ebffff&fire=FF6B00&ring=00fff7&currStreakLabel=00fff7" width="460"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Infinity0077&theme=react-dark&area=true&hide_border=true&color=00FFD0&line=00FFD0" width="96%" style="margin-top: 10px; border-radius: 16px; box-shadow: 0 0 30px #00ffe0;"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Infinity0077&theme=react-dark&area=true&hide_border=true&color=00fff7&line=00fff7&point=ffffff&area_color=FF176B&bg_color=181818" width="97%"/>
+<br/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&layout=compact&theme=tokyonight&bg_color=191b1fcc&title_color=00eaff&text_color=e0fbff&hide_border=true" width="400"/>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Infinity0077&margin-w=10&theme=gruvbox&no-frame=true&column=8" width="99%"/>
+<br/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" alt="Neon Contribution Snake">
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aCSi4aRV7bSrtQs/giphy.gif" width="90"/>
-  <br/>
-  <b><sub><sup>Data streams decoded. Welcome to the future.</sup></sub></b>
-</div>
+<img src="https://media.giphy.com/media/3o7aCSi4aRV7bSrtQs/giphy.gif" width="100"/>
+<br/>
+<b><sub><sup><span style="color:#00FFF0">✨ Neon uplink complete. Welcome to the CYBER future. ✨</span></sup></sub></b>
 
+</div>
 ## Ch. 4: Projects Showcase
 
 <details>
