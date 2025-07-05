@@ -25,8 +25,7 @@
 
 ---
 
-<details>
-<summary><b>🟣⚡ <span style="color:#D7263D;">INDEX</span> ⚡🟣</b></summary>
+## 🟣⚡ <span style="color:#D7263D;">INDEX</span> ⚡🟣
 
 <p align="center">
   <img src="https://github.com/Infinity0077/Infinity0077/blob/4c2a40b7339d3c08e5eaefd0d798699918061617/Data/drag.png"
@@ -52,10 +51,9 @@
   🟣━━━━━━━✦━━━━━━━⚡━━━━━━━✦━━━━━━━🟢
 </p>
 
-</details>
-
 ---
-## ✨ Prologue
+
+## Prologue
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=245CA6&width=750&height=25&lines=Long+ago,+in+a+world+where+data+and+imagination+intertwine..." alt="Typing Animation 1">
@@ -66,7 +64,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=E9F6FB&width=750&height=25&lines=Every+project+is+a+new+chapter,+every+insight+a+plot+twist." alt="Typing Animation 6">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=F9FBFC&width=750&height=25&lines=The+adventure+begins+now!" alt="Typing Animation 7">
 </p>
-
 
 <p align="center">
   <img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/Met%20deze%20te%20gekke%20One%20Piece%20Wanted%20Shanks%20poster%E2%80%A6.jpg" alt="Laptop/Data" width="180" height="240"/>
@@ -82,9 +79,7 @@
 
 ---
 
----
-
-<h2>🌟 Character's Sheet</h2>
+## Characters Sheet
 
 ```
 ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
@@ -98,8 +93,6 @@
 
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 ```
-
-
 
 <p align="center">
   <img src="https://github.com/Infinity0077/Infinity0077/blob/main/Data/zoro1.jpg" width="440" height="180" />
@@ -147,7 +140,8 @@
 └──────────────────────────────────────────────────────────┘
 ```
 ---
-<h2> Ch. 1: Origin Story </h2>
+
+## Ch. 1: Origin Story
 
 <details>
 <summary><b>📜 The Beginning</b></summary>
@@ -160,7 +154,9 @@
 
 </details>
 
-<h2> Ch. 2: Data & Cloud Journey </h2>
+---
+
+## Ch. 2: Data & Cloud Journey
 
 <details>
 <summary><b>🌱 Ongoing Training Arc</b></summary>
@@ -189,8 +185,9 @@
 </div>
 </details>
 
+---
 
-<h2> Ch. 3: Skills & Tools </h2>
+## Ch. 3: Skills & Tools
 
 <details>
 <summary><b>⚡ The Arsenal // Future Mode</b></summary>
@@ -292,6 +289,8 @@
 
 </details>
 
+---
+
 #### 🛰️ GitHub Analytics // [ Neon-Cyber Dashboard ]
 
 <div align="center">
@@ -321,7 +320,11 @@
 <br/>
 
 </div>
-<h2>Ch. 4: Projects Showcase </h2>
+
+---
+
+## Ch. 4: Projects Showcase
+
 <details>
 <summary><b>🗂️ The Quest Log</b></summary>
 
@@ -349,7 +352,7 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 
 ---
 
-<h2> Ch. 5: Certifications & Badges </h2>
+## Ch. 5: Certifications & Badges
 
 <details>
 <summary><b>🏅 My Achievement Gallery</b></summary>
@@ -439,6 +442,7 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 </details>
 
 ---
+
 ## Ch. 7: Fun & Fandom
 
 <details>
@@ -460,8 +464,6 @@ are the best part of the adventure!"*
 </div>
 
 </details>
-
----
 
 ---
 
