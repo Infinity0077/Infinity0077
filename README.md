@@ -38,7 +38,7 @@
 </p>
 
 - [🟣✨ Prologue](#prologue)
-- [🟢🗒️ Character Sheet](#character-sheet)
+- [🟢🗒️ Character Sheet](#characters-sheet)
 - [⚡🌱 Ch. 1: Origin Story](#ch-1-origin-story)
 - [🛸☁️ Ch. 2: Data & Cloud Journey](#ch-2-data--cloud-journey)
 - [💾🛠️ Ch. 3: Skills & Tools](#ch-3-skills--tools)
