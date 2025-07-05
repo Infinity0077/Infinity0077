@@ -1,0 +1,24 @@
+name: Generate Cyberpunk Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            ./output/github-contribution-grid-snake-cyberpunk.svg
+          color_snake: "#00fff7" # Neon cyan
+          color_dots: "#181824,#ff26a8,#00fff7,#ffec00,#ff005c" # Cyberpunk palette
+          color_background: "#1a0033" # Deep purple
+          gif: false
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snake-cyberpunk
+          path: ./output/github-contribution-grid-snake-cyberpunk.svg
