@@ -64,18 +64,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=E9F6FB&width=750&height=25&lines=Every+project+is+a+new+chapter,+every+insight+a+plot+twist." alt="Typing Animation 6">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1400&color=F9FBFC&width=750&height=25&lines=The+adventure+begins+now!" alt="Typing Animation 7">
 </p>
+<p align="center">
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/e1b3a4f17dc5a0cab39c6128411c0ae045578545/Data/shanks1040.jpg" alt="Shanks" width="180" height="240"/>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/e1b3a4f17dc5a0cab39c6128411c0ae045578545/Data/zoro1040.jpg" alt="Zoro" width="180" height="240"/>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/e1b3a4f17dc5a0cab39c6128411c0ae045578545/Data/luffy1040.jpg" alt="Luffy" width="180" height="240"/>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/e1b3a4f17dc5a0cab39c6128411c0ae045578545/Data/mihawk1040.jpg" alt="Mihawk" width="180" height="240"/>
+  <img src="https://github.com/Infinity0077/Infinity0077/blob/e1b3a4f17dc5a0cab39c6128411c0ae045578545/Data/dragon1040.jpg" alt="Dragon" width="180" height="220"/>
 
-<table>
-  <tr>
-    <td><img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/Met%20deze%20te%20gekke%20One%20Piece%20Wanted%20Shanks%20poster%E2%80%A6.jpg" alt="Laptop/Data" width="200" height="240"/></td>
-    <td><img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/ad17f22a-7b7e-46ae-9dae-5da33ffdaf95.jpg" alt="Book/Novel" width="200" height="280"/></td>
-    <td><img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/one%20piece%20poster%20wanted%20zoro.jpg" alt="Book/Nove2" width="200" height="240"/></td>
-    <td><img src="https://github.com/Infinity0077/Infinity0077/blob/57862e778d3777062b5122f6f7e0efbdfef9c5cf/Data/a3c793be-8865-49b9-b19b-0c2ee845e043.jpg" alt="Book/Nove2" width="200" height="280"/></td>
-    <td><img src="https://github.com/Infinity0077/Infinity0077/blob/71ab6b745c82c70d5e0aa64b8ba47bb9dc8879e4/Data/b193bfee-0f67-46da-adda-81523eebc6a3.jpg" alt="Anime/Alien Monster" width="200" height="300"/></td>
-  </tr>
-</table>
-
----
+</p>
 
 ## Characters Sheet
 
