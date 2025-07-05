@@ -14,7 +14,3 @@ jobs:
           github_user_name: Infinity0077
           outputs: |
             ./output/github-contribution-grid-snake.svg
-      - uses: actions/upload-artifact@v4
-        with:
-          name: snake
-          path: ./output/github-contribution-grid-snake.svg
