@@ -26,7 +26,7 @@
 ---
 
 <details>
-<summary><b>🟣⚡ <span style="color:#D7263D;">CYBERPUNK INDEX</span> ⚡🟣</b></summary>
+<summary><b>🟣⚡ <span style="color:#D7263D;">INDEX</span> ⚡🟣</b></summary>
 
 <p align="center">
   <img src="https://github.com/Infinity0077/Infinity0077/blob/4c2a40b7339d3c08e5eaefd0d798699918061617/Data/drag.png"
@@ -46,7 +46,6 @@
 - [🏅🦾 Ch. 5: Certifications & Badges](#ch-5-certifications--badges)
 - [🎬🦿 Ch. 6: Anime Universe](#ch-6-anime-universe)
 - [🎉🔊 Ch. 7: Fun & Fandom](#ch-7-fun--fandom)
-- [🗺️💡 Ch. 8: Side Quests](#ch-8-side-quests)
 - [📝🕶️ Epilogue & Contact](#epilogue--contact)
 
 <p align="center">
@@ -148,7 +147,7 @@
 └──────────────────────────────────────────────────────────┘
 ```
 ---
-## Ch. 1: Origin Story
+<h2> Ch. 1: Origin Story </h2>
 
 <details>
 <summary><b>📜 The Beginning</b></summary>
@@ -161,7 +160,7 @@
 
 </details>
 
-## Ch. 2: Data & Cloud Journey
+<h2> Ch. 2: Data & Cloud Journey </h2>
 
 <details>
 <summary><b>🌱 Ongoing Training Arc</b></summary>
@@ -191,7 +190,7 @@
 </details>
 
 
-## Ch. 3: Skills & Tools
+<h2> Ch. 3: Skills & Tools </h2>
 
 <details>
 <summary><b>⚡ The Arsenal // Future Mode</b></summary>
@@ -310,22 +309,19 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Infinity0077&theme=react-dark&area=true&hide_border=true&color=00fff7&line=00fff7&point=ffffff&area_color=FF176B&bg_color=181818" width="97%"/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&layout=compact&theme=tokyonight&bg_color=191b1fcc&title_color=00eaff&text_color=e0fbff&hide_border=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infinity0077&layout=compact&theme=algolia&bg_color=191b1fcc&title_color=00eaff&text_color=e0fbff&hide_border=true" width="400"/>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Infinity0077&margin-w=10&theme=gruvbox&no-frame=true&column=8" width="99%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Infinity0077&margin-w=10&theme=algolia&no-frame=true&column=8" width="99%"/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="97%" alt="Neon Contribution Snake">
 
 ---
 
-<img src="https://media.giphy.com/media/3o7aCSi4aRV7bSrtQs/giphy.gif" width="100"/>
 <br/>
-<b><sub><sup><span style="color:#00FFF0">✨ Neon uplink complete. Welcome to the CYBER future. ✨</span></sup></sub></b>
 
 </div>
-## Ch. 4: Projects Showcase
-
+<h2>Ch. 4: Projects Showcase </h2>
 <details>
 <summary><b>🗂️ The Quest Log</b></summary>
 
@@ -353,7 +349,7 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 
 ---
 
-## Ch. 5: Certifications & Badges
+<h2> Ch. 5: Certifications & Badges </h2>
 
 <details>
 <summary><b>🏅 My Achievement Gallery</b></summary>
@@ -380,66 +376,92 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 ## Ch. 6: Anime Universe
 
 <details>
-<summary><b>🎬 My Top Anime & Inspirations</b></summary>
+<summary><b>🎬 My Top Anime & Donghua Inspirations</b></summary>
 
-### Top Anime Picks
-- **Your Name** (Kimi no Na wa)
-- **Attack on Titan**
-- **Haikyuu!!**
+### 🌟 Favorite Animes
+- **One Piece**
+- **Dragon Ball Z**
+- **Death Note**
+- **Bleach**
+- **Black Clover**
+- **Demon Slayer**
 - **Jujutsu Kaisen**
-- **Death Note** | **Spy x Family** | **One Piece** (manga favs)
 
-### Anime Quotes
-> "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have." — Matsumoto Rangiku
+---
 
-> "The world isn't perfect. But it's there for us, doing the best it can. That's what makes it so damn beautiful." — Roy Mustang
+### 🐉 Favorite Donghuas
+- **Battle Through the Heavens (斗破苍穹 / BTTH)**
+- **Throne of Seal (神印王座)**
+- **Soul Land (斗罗大陆)**
+- **Tales of Herding Gods (牧神记)**
+- **A Mortal’s Journey to Immortality (凡人修仙传)**
 
+---
+
+### 🗯️ Quotes That Inspire Me
+> "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have."
+> — **Matsumoto Rangiku**
+
+> *"Power comes in response to a need, not a desire."*  
+> — **Goku, Dragon Ball Z**
+
+> *"You can't ever win if you're always on the defensive. To win, you have to attack."*  
+> — **Light Yagami, Death Note**
+
+> *"We are all like fireworks: we climb, we shine and always go our separate ways and become further apart. But even when that time comes, let’s not disappear like a firework, and continue to shine... forever."*  
+> — **Hitsugaya Toshiro, Bleach**
+
+> *"Go beyond your limits. Because if you don’t, you’ll never grow."*  
+> — **Tanjiro Kamado, Demon Slayer**
+
+> *"If you’re going to curse someone, curse your own weakness."*  
+> — **Gojo Satoru, Jujutsu Kaisen**
+
+> *"When the world shoves you around, you just gotta stand up and shove back. It's not like somebody's gonna save you if you start babbling excuses."*  
+> — **Roronoa Zoro, One Piece**
+
+> *"I don't care what the society says. I've regretted doing anything. I will survive and do what I want to."*  
+> — **Roronoa Zoro, One Piece**
+---
 ### Anime Data for Fun
 - 💡 Using anime datasets for ML & dashboards
 - 🤖 Built bots that recommend anime based on mood
 - 🎨 Data visualizations styled like anime intros
+<br>
+<sub><i> Work in Progress! ☺ </i></sub>
 
 <div align="center">
-  <img src="https://i.imgur.com/UH3IPXw.gif" width="90"/>
-  <img src="https://i.imgur.com/xxQwQyT.gif" width="90"/>
-  <img src="https://i.imgur.com/neK6R87.gif" width="90"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDB4M3NwMDVlaHp0NGV5MXh1MmthdWV2cDZjMml1ZDlqMGZmZTlzbSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/JLYQnbND9gkYU/giphy.gif" width="220"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVtNmZvaXk0N3U0Ympqa3kxY3BiNjhwM3V0cDhlZDJ2bHZiZm01aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdnNWhzc3pqMXlyeXZxaGV2cnV6bG9maDMzemY2bDlnd2YwNmxwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CY3A9zOlZR8uhFbeok/giphy.gif" width="220"/>
 </div>
 
 </details>
 
 ---
-
 ## Ch. 7: Fun & Fandom
 
 <details>
 <summary><b>🎉 Side Activities & Hobbies</b></summary>
 
-- 🎨 **Pixel Art:** Designing anime avatars and icons
-- 🕹️ **Gaming:** Switch, PC, and retro consoles
-- 📚 **Manga Reviewer:** Death Note, One Piece, Spy x Family
-- 🎼 **Music:** Anime OPs, lofi beats for coding
-- ✨ **Community:** Active on Discord anime/data servers
+- 🎨 **Pixel Art & Design:** Creating anime-inspired avatars, icons, and retro game sprites  
+- 🕹️ **Gaming:** PC games (favorites: roguelikes, story-driven, tactical), plus Clash of Clans on mobile  
+- 📚 **Manga & Donghua Enthusiast:** Death Note, One Piece, Black Clover, Spy x Family, BTTH, Soul Land, and more  
+- 🤖 **Data & ML Projects:** Building anime recommendation bots, visualizing anime/donghua data, and experimenting with dashboards  
+- 🎼 **Music:** Rap, phonk, and chill instrumentals — current favorite phonk tracks: **Aura**, **Matushka**, **Odnogo**    
 
-**Favorite Memes:**  
-<img src="https://media.giphy.com/media/eKrgVyZ7zLvJrgZNZn/giphy.gif" width="100"/>
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="100"/>
+---
+
+<div align="center">
+
+> *"Sometimes the side quests  
+are the best part of the adventure!"*
+
+</div>
 
 </details>
 
 ---
-
-## Ch. 8: Side Quests
-
-<details>
-<summary><b>📝 Other Adventures</b></summary>
-
-- 🌟 **Blogging:** [My Anime/Data Blog](#) (coming soon)
-- 🎤 **Talks:** Lightning talk on “Anime Data Science” at [Your Event]
-- 🧩 **Hackathons:** Top 2 at RCPIT Machine Hack 2022
-- 👾 **Open Source:** Contributed to open data projects & dashboards
-- 🌱 **Learning:** Japanese language, Cloud DevOps
-
-</details>
 
 ---
 
@@ -453,6 +475,8 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anant-baviskar-b07b25236)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2b2b2b?logo=vercel&logoColor=white)](https://anant-portfolio-infinity.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:baviskaranant7@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-grey?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1yQnXV7gQ4X8S5cRzqv7X-YourResumeID/view?usp=sharing)
+[![Portfolio Repo](https://img.shields.io/badge/Portfolio%20Repo-black?logo=github&logoColor=white)](https://github.com/Infinity0077/anant-portfolio-infinity)
 
 <br>
 
