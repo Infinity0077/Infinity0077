@@ -143,23 +143,15 @@
 
 ## Ch. 1: Origin Story
 
-<details>
-<summary><b>📜 The Beginning</b></summary>
-
 - Born and raised in Maharashtra, India, I’ve always been drawn to both numbers and stories.
 - My interest in technology started with an early curiosity for data—exploring patterns, collecting information, asking questions.
 - I discovered Python during my undergraduate studies, and quickly realized its potential for data analysis and automation.
 - Inspired by online communities, open-source contributors, and educators, I began building projects that connect data to real-world challenges.
 - Today, I’m focused on developing my skills as a data analyst and Data Scientist and working towards a professional role in the field.
 
-</details>
-
 ---
 
 ## Ch. 2: Data & Cloud Journey
-
-<details>
-<summary><b>🌱 Ongoing Training Arc</b></summary>
 
 - **Education:**
   - 🎓 B.Tech in Computer Science (Data Science), R.C. Patel Institute of Technology, Shirpur (2020–2024), CGPA: 7.16
@@ -183,14 +175,11 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNlMmZxczVlaWZoam02Zmxzd2syZjB1YXV1enVyZHB1c3NmcWRleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="170"/>
 
 </div>
-</details>
 
 ---
 
 ## Ch. 3: Skills & Tools
 
-<details>
-<summary><b>⚡ The Arsenal // Future Mode</b></summary>
 &nbsp;
 <div align="center">
 
@@ -287,8 +276,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Mono&duration=2500&pause=600&color=00FFD0&center=true&vCenter=true&width=480&lines=Upgrading+skills...;Loading+future-ready+toolkit...;Deploying+next-gen+analytics.">
 </div>
 
-</details>
-
 ---
 
 #### 🛰️ GitHub Analytics // [ Neon-Cyber Dashboard ]
@@ -325,8 +312,7 @@
 
 ## Ch. 4: Projects Showcase
 
-<details>
-<summary><b>🗂️ The Quest Log</b></summary>
+### 🗂️ The Quest Log
 
 ### 🟦 [Resume vs Job Match Score Analyzer](#)
 A Python tool that analyzes your resume against LinkedIn job descriptions, delivers a skill match score, and identifies strengths and skill gaps using NLP and text similarity.
@@ -348,17 +334,14 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 
 <sub>…and more coming soon! Check my [Portfolio](https://anant-portfolio-infinity.vercel.app)</sub>
 
-</details>
-
 ---
 
 ## Ch. 5: Certifications & Badges
 
-<details>
-<summary><b>🏅 My Achievement Gallery</b></summary>
+### 🏅 My Achievement Gallery
 
 ### 🎓 Google Data Analytics (Badge) — 2025  
-![Google Data Analytics](https://cloud.google.com/images/social-icon-google-cloud-1200-630.png)
+<img src="https://cloud.google.com/images/social-icon-google-cloud-1200-630.png" width="120" alt="Google Data Analytics" />
 - [Google Data Analyst Learning Path](#)
 
 ### 🛢️ Database & SQL for Data Science — Coursera (2022)  
@@ -372,14 +355,11 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
 
 <sub><i>Check back as I unlock new achievements!</i></sub>
 
-</details>
-
 ---
 
 ## Ch. 6: Anime Universe
 
-<details>
-<summary><b>🎬 My Top Anime & Donghua Inspirations</b></summary>
+### 🎬 My Top Anime & Donghua Inspirations
 
 ### 🌟 Favorite Animes
 - **One Piece**
@@ -439,14 +419,11 @@ A Next.js and Contentful CMS-powered portfolio hub showcasing interactive dashbo
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHdnNWhzc3pqMXlyeXZxaGV2cnV6bG9maDMzemY2bDlnd2YwNmxwaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CY3A9zOlZR8uhFbeok/giphy.gif" width="220"/>
 </div>
 
-</details>
-
 ---
 
 ## Ch. 7: Fun & Fandom
 
-<details>
-<summary><b>🎉 Side Activities & Hobbies</b></summary>
+### 🎉 Side Activities & Hobbies
 
 - 🎨 **Pixel Art & Design:** Creating anime-inspired avatars, icons, and retro game sprites  
 - 🕹️ **Gaming:** PC games (favorites: roguelikes, story-driven, tactical), plus Clash of Clans on mobile  
@@ -463,14 +440,9 @@ are the best part of the adventure!"*
 
 </div>
 
-</details>
-
 ---
 
 ## Epilogue & Contact
-
-<details open>
-<summary><b>💌 Let's Connect!</b></summary>
 
 <div align="center">
 
@@ -488,4 +460,3 @@ are the best part of the adventure!"*
 
 ---
 <sub align="center">*This README is ever-growing—bookmark and revisit for new chapters & quests!*</sub>
-</details>
